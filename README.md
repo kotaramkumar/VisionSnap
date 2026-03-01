@@ -90,9 +90,20 @@ VisionSnap/
 
 ## Screenshots
 
-| Home | Result | History | Settings |
-|------|--------|---------|----------|
-| Camera viewfinder with category chips | Rich structured data cards | Thumbnail scan history | API key config + scan types |
+<table>
+  <tr>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Scan Result</b></td>
+    <td align="center"><b>History</b></td>
+    <td align="center"><b>Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home.svg" width="160" alt="Home screen"/></td>
+    <td><img src="screenshots/result-animal.svg" width="160" alt="Animal result screen"/></td>
+    <td><img src="screenshots/history.svg" width="160" alt="History screen"/></td>
+    <td><img src="screenshots/settings.svg" width="160" alt="Settings screen"/></td>
+  </tr>
+</table>
 
 ## License
 

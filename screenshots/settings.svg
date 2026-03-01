@@ -1,0 +1,70 @@
+<svg width="320" height="620" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, sans-serif">
+  <rect width="320" height="620" rx="36" fill="#0D0D1A"/>
+
+  <!-- Status bar -->
+  <text x="24" y="28" fill="#FFFFFF" font-size="13" font-weight="600">9:41</text>
+  <text x="260" y="28" fill="#FFFFFF" font-size="13">● ▲ ■</text>
+
+  <!-- Header -->
+  <text x="20" y="72" fill="#FFFFFF" font-size="24" font-weight="800">Settings</text>
+
+  <!-- API Key section -->
+  <text x="20" y="104" fill="#FFFFFF" font-size="14" font-weight="700">🔑 Anthropic API Key</text>
+  <text x="20" y="120" fill="#7777AA" font-size="12">Required to analyze images. Stored only on this device.</text>
+
+  <!-- Input field -->
+  <rect x="20" y="130" width="280" height="48" rx="12" fill="#1A1A2E" stroke="#2A2A4A" stroke-width="1"/>
+  <text x="34" y="160" fill="#3A3A6A" font-size="13">sk-ant-api03-••••••••••••••••••••</text>
+  <text x="282" y="160" fill="#9999BB" font-size="16" text-anchor="end">👁️</text>
+
+  <!-- Buttons -->
+  <rect x="20" y="186" width="196" height="44" rx="11" fill="#6C63FF"/>
+  <text x="118" y="213" fill="#FFFFFF" font-size="14" font-weight="700" text-anchor="middle">Save Key</text>
+
+  <rect x="224" y="186" width="76" height="44" rx="11" fill="#2A1A1A" stroke="#6A2A2A" stroke-width="1"/>
+  <text x="262" y="213" fill="#FF6666" font-size="14" font-weight="600" text-anchor="middle">Remove</text>
+
+  <!-- Status -->
+  <text x="24" y="250" fill="#FFFFFF" font-size="12">🟢</text>
+  <text x="40" y="250" fill="#4CAF50" font-size="12" font-weight="500">API key is configured</text>
+
+  <!-- Scan Capabilities -->
+  <text x="20" y="280" fill="#FFFFFF" font-size="14" font-weight="700">📸 Scan Capabilities</text>
+
+  <!-- Scan type rows -->
+  <rect x="20" y="292" width="280" height="40" rx="12" fill="#1A1A2E" stroke="#2A2A4A" stroke-width="1"/>
+  <text x="34" y="318" fill="#FFFFFF" font-size="22">🍃</text>
+  <text x="64" y="308" fill="#FFFFFF" font-size="13" font-weight="600">Leaves</text>
+  <text x="64" y="324" fill="#7777AA" font-size="11">Plant name, leaf type, medicinal uses</text>
+
+  <rect x="20" y="340" width="280" height="40" rx="12" fill="#1A1A2E" stroke="#2A2A4A" stroke-width="1"/>
+  <text x="34" y="366" fill="#FFFFFF" font-size="22">🐾</text>
+  <text x="64" y="356" fill="#FFFFFF" font-size="13" font-weight="600">Animals</text>
+  <text x="64" y="372" fill="#7777AA" font-size="11">Species, habitat, diet, conservation status</text>
+
+  <rect x="20" y="388" width="280" height="40" rx="12" fill="#1A1A2E" stroke="#2A2A4A" stroke-width="1"/>
+  <text x="34" y="414" fill="#FFFFFF" font-size="22">🚗</text>
+  <text x="64" y="404" fill="#FFFFFF" font-size="13" font-weight="600">Cars &amp; Vehicles</text>
+  <text x="64" y="420" fill="#7777AA" font-size="11">Make, model, year, engine type, features</text>
+
+  <rect x="20" y="436" width="280" height="40" rx="12" fill="#1A1A2E" stroke="#2A2A4A" stroke-width="1"/>
+  <text x="34" y="462" fill="#FFFFFF" font-size="22">🍔</text>
+  <text x="64" y="452" fill="#FFFFFF" font-size="13" font-weight="600">Food</text>
+  <text x="64" y="468" fill="#7777AA" font-size="11">Calories, macros, health benefits</text>
+
+  <!-- About box -->
+  <rect x="20" y="488" width="280" height="58" rx="14" fill="#1A1A2E" stroke="#2A2A4A" stroke-width="1"/>
+  <text x="160" y="508" fill="#FFFFFF" font-size="14" font-weight="800" text-anchor="middle">VisionSnap AI</text>
+  <text x="160" y="522" fill="#555577" font-size="11" text-anchor="middle">v1.0.0</text>
+  <text x="160" y="538" fill="#9999BB" font-size="11" text-anchor="middle">Powered by Claude Opus (claude-opus-4-6)</text>
+
+  <!-- Bottom tab bar -->
+  <rect x="0" y="554" width="320" height="66" rx="0" fill="#1A1A2E"/>
+  <rect x="0" y="554" width="320" height="1" fill="#2A2A4A"/>
+  <text x="80" y="578" fill="#555577" font-size="20" text-anchor="middle">📷</text>
+  <text x="80" y="596" fill="#555577" font-size="10" text-anchor="middle">Scan</text>
+  <text x="160" y="578" fill="#555577" font-size="20" text-anchor="middle">📋</text>
+  <text x="160" y="596" fill="#555577" font-size="10" text-anchor="middle">History</text>
+  <text x="240" y="578" fill="#6C63FF" font-size="20" text-anchor="middle">⚙️</text>
+  <text x="240" y="596" fill="#6C63FF" font-size="10" font-weight="700" text-anchor="middle">Settings</text>
+</svg>
